@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Discover</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="favourite">Favourite</string>
+    <string name="breaking_news">Breaking News</string>
+    <string name="recommendation">Recommendation</string>
+    <string name="view_all">View All</string>
+    <string name="extra_lines">Are there monthly maintenance fees, and can they be waived? Some banks charge monthly account fees, but they can usually be avoided by maintaining minimum balances, linking your savings account to an eligible checking account or meeting another condition.
+Are there transaction limits? The Federal Reserve Board of Governors removed the cap on transfers and withdrawals from savings accounts, previously outlined under its Regulation D, in April 2020. Still, banks may restrict how many transfers or withdrawals you can complete monthly.
+Are there minimum balance or deposit requirements? Banks may require a minimum deposit to open a savings account or have minimum balance requirements.
+Other considerations may include how extensive the sign-up process is and whether you are required to have other accounts with that bank.</string>
+    <string name="search_here">Search here...</string>
+    <string name="desc">News from all around the world</string>
+</resources>
