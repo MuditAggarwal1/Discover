@@ -26,41 +26,45 @@ Some Screenshots Of The Application:
 <p align="center" float="left">
 <table>
   <tr>
+    <td>Logo</td>
     <td>Home Screen</td>
-    <td>Register Screen</td>
-    <td>Login Screen</td>
-    <td>Dashboard Screen</td>
+    <td>News Description</td>
+    <td>Search Screen</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/MuditAggarwal1/FeedZie/assets/135834440/08c13472-c5b4-4e86-aabc-5e027d8d77c6" width="220"></td>
-    <td><img src="https://github.com/MuditAggarwal1/FEEDZIE/assets/135834440/a1ef6997-b43a-4826-85b1-5e9077851737" width="220"></td>
-    <td><img src="https://github.com/MuditAggarwal1/FEEDZIE/assets/135834440/f753ffcd-5517-42e3-8390-510a4c44ab2d" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147682382-a0a2671d-6160-44d5-a4fb-dab764103ca4.png" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/Discover/assets/135834440/379270ea-9f5d-464f-bd21-2d7a6b89c53f"></td>
+    <td><img src="https://github.com/MuditAggarwal1/Discover/assets/135834440/d11bbfae-25db-4f61-a851-5e08cbf518e9" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/Discover/assets/135834440/cd381b76-4651-4d21-8d44-52c1829997c6" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/Discover/assets/135834440/e4a9f892-5542-4962-bbee-68d5937165d8" width="220"></td>
   </tr>
  </table>
  <table>
   <tr>
-    <td>Donate Screen</td>
-    <td>Receive Screen</td>
-    <td>Food Map Screen</td>
-    <td>History Screen</td>
+    <td>Favourite Section</td>
+    <td>Bollywood News</td>
+    <td>Education News</td>
+    <td>Entertainment News</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147682397-00db142f-8817-47d5-b23d-e67aef63ea02.png" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147682399-7f6ba8ba-0805-4797-9af1-8994707c9adb.png" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147683214-c1795ace-d312-40f2-9b1f-72a855ea27bd.png" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147683209-1f154899-b993-43e2-8536-d8fceb61cbe5.png" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/Discover/assets/135834440/55df096f-d333-42a4-b7cc-43547d773103" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/Discover/assets/135834440/156e5dcc-02ba-407a-92a7-d369d6051bbd" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/Discover/assets/135834440/f6fb3fd9-e447-48de-abcd-bbe0d7e522e1" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/Discover/assets/135834440/cef04720-05d9-4415-8a57-a0ee4b4a9a41" width="220"></td>
   </tr>
  </table>
  </table>
  <table>
   <tr>
-    <td>About Screen</td>
-     <td>App Logo</td>
+    <td>Games News</td>
+    <td>Politics News</td>
+    <td>Sports News</td>
+    <td>Technology News</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/MuditAggarwal1/FeedZie/assets/135834440/2f95a22d-0745-428d-9b24-f94358fa2a1a" width="220"></td>
-    <td><img src="https://github.com/MuditAggarwal1/FeedZie/assets/135834440/5a7f1a26-a2c4-4402-bf6d-4e8882c0704f" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/Discover/assets/135834440/ad538f20-b163-4981-93ac-93bf5feb9332" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/Discover/assets/135834440/ea6d6f6c-127a-41f2-b597-41e24ccc6caa" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/Discover/assets/135834440/070a907d-e39e-4fd8-bb77-c2ddb2a2f6cd" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/Discover/assets/135834440/d5970be7-2d21-4261-bc33-b0812e9d0727" width="220"></td>
   </tr>
  </table>
  </p>
