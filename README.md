@@ -68,9 +68,9 @@ Some Screenshots Of The Application:
   </tr>
  </table>
  </p>
- APP APK LINK  (https://drive.google.com/file/d/1hseSQ0lszpN-kqgFnsOdistNthQy1EXd/view?usp=drive_link)
+ APP APK LINK  (https://drive.google.com/file/d/1xjvgIfkBfxCyFXzFq61e8qsM9pn4VV_P/view?usp=sharing)
  
- APP VIDEO LINK (https://drive.google.com/file/d/1FdGChvytEWu6XuvTAx6Px8uGDDsmH7AX/view?usp=drive_link)
+ APP VIDEO LINK (https://drive.google.com/file/d/1CccU5ck3lD0e3ytrdi1BXw4YdiJoiXJw/view?usp=sharing)
 
  
 # DISCOVER
