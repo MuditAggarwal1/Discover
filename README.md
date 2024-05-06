@@ -19,6 +19,9 @@ In summary, “Discover” combines elegant design, efficient architecture, and 
 </div>
 
 
+
+
+
 Some Screenshots Of The Application: 
 <p align="center" float="left">
 <table>
