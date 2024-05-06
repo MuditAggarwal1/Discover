@@ -1,20 +1,25 @@
 <div align="justify">
-In densely populated countries like India, I am deeply concerned about the issue of food wastage. Evidence abounds in the form of overflowing streets, brimming garbage bins, and sprawling landfills, and it signifies not only hunger and pollution but also economic challenges. The modern lifestyle, which I am a part of, characterized by rapid changes in habits and preferences, contributes to the squandering of food, clothing, and other resources.
+  
+“**Discover**” is a cutting-edge news app that provides users with up-to-date information across a wide range of categories. Here are its key features:
 
-Rather than discarding these valuable items, I believe I can channel them toward a noble cause by donating to various organizations, including orphanages and old age homes. My internet-based Android application focuses on charitable endeavors through donations. Not only does it tackle food wastage, but it also addresses other needs such as clothing, books, and utensils for those in need.
 
-Consider the daily surplus of food in restaurants and cafes—a common occurrence. Instead of consigning it to the trash, I can ensure this excess nourishes the homeless. With pickup arrangements facilitated by my enterprise, restaurants and cafes can participate without hassle. The beneficiaries include both these establishments (reducing their carbon footprint and waste) and the underprivileged.
+**Categories**: “Discover” offers more than 10 diverse news categories, ensuring that users can find content relevant to their interests. Whether it’s technology, sports, entertainment, or world news, the app has it covered.
 
-My project’s ultimate goal is to emphasize that investing in food wastage reduction is a logical step toward sustainable production and consumption. This encompasses food security, climate change mitigation, and other environmental concerns. I plan to develop public awareness materials and a strategic approach to achieve this mission.
+**Sleek User Interface**: The app boasts a sleek and intuitive user interface, making it easy for users to navigate through articles and stay informed. The design prioritizes readability and aesthetics.
+
+**MVVM Architecture**: “Discover” follows the Model-View-ViewModel (MVVM) architectural pattern. This separation of concerns enhances code maintainability and testability, allowing developers to build robust features.
+
+**Navigation Components**: The app leverages Android’s Navigation Components to manage navigation between different screens. Users can seamlessly switch between categories, search results, and saved articles.
+
+**Retrofit Integration**: “Discover” fetches news data from external APIs using Retrofit. This library simplifies network requests, ensuring efficient data retrieval and smooth performance.
+
+**Room Database**: To enhance user experience, “Discover” includes a local room database. Users can save their favorite articles for future reference, even when offline.
+In summary, “Discover” combines elegant design, efficient architecture, and powerful features to deliver a top-notch news experience for users.
+
 </div>
 
-Flowchart of the working of the application:
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/54005333/118606061-97a42980-b7d4-11eb-9d27-5981ee170fb2.png">
-</p>
-
-Some screenshots of the Application: 
+Some Screenshots Of The Application: 
 <p align="center" float="left">
 <table>
   <tr>
@@ -61,4 +66,4 @@ Some screenshots of the Application:
  APP VIDEO LINK (https://drive.google.com/file/d/1FdGChvytEWu6XuvTAx6Px8uGDDsmH7AX/view?usp=drive_link)
 
  
-# FEEDZIE
+# DISCOVER
